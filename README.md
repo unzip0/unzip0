@@ -1,5 +1,7 @@
-### Hi there 👋
 
+<img align="left" src="https://github.com/unzip0/unzip0/blob/main/images/banner.jpg" height="300" width="1920"/>
+
+### Hi there 👋
 <!--
 **unzip0/unzip0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
