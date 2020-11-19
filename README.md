@@ -19,7 +19,7 @@ We started using JAVA for the use of Rest API and SOAP, we created small desktop
 Although I consider myself a full stack developer, I feel more comfortable developing the backend part. I like to optimize database queries, be it Mysql or SQL Server.
 
 During the years that I was a part of the company, I did not place as much importance as I should on the world that is being created on Github. Yes, I am a newbie to repository collaboration but it is never too late.
-I am currently learning React, Node, and MongoDB. I wish I could consider myself a MERN Full Stack.
+I am currently learning React, Node, MongoDB and Ionic. I wish I could consider myself a MERN Full Stack.
 
 Apart from programming, I am a reader of fantasy books and post-apocalyptic genre, I am a lover of RPG video games and I love to practice Crossfit.
 
