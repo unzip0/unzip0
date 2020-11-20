@@ -1,6 +1,6 @@
 ![banner](https://github.com/unzip0/unzip0/blob/main/banner.png)
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adrian Cabrera <a target="_blank" href="https://www.instagram.com/unzip0/?hl=es"><img src="https://github.com/unzip0/unzip0/blob/main/icons/instagram-icon.png" align="right" height="30"></a>
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adrian Cabrera <a target="_blank" href="https://www.instagram.com/unzip0/?hl=es" rel="noopener noreferrer"><img src="https://github.com/unzip0/unzip0/blob/main/icons/instagram-icon.png" align="right" height="30"></a>
 
 <pre>
 <code>
