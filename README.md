@@ -1,6 +1,6 @@
 ![banner](https://github.com/unzip0/unzip0/blob/main/banner.png)
 
-## Hi there 👋, I'm Adrian Cabrera
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adrian Cabrera
 
 <pre>
 <code>
@@ -29,4 +29,5 @@ I am currently learning React, Node, MongoDB and Ionic. I wish I could consider 
 
 Apart from programming, I am a reader of fantasy books and post-apocalyptic genre, I am a lover of RPG video games and I love to practice Crossfit.
 
-
+## Technologies && Tools 🛠️
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
