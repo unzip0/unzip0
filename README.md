@@ -10,7 +10,6 @@
 - 👯 I’m looking to collaborate on any project that impresses me
 - 🤔 I’m looking for help with animal community
 - 💬 Ask me about Web Development
-- 📫 How to reach me: [unzip0](https://www.instagram.com/unzip0/?hl=es)
 - ⚡ Fun fact: I love Cats 😻😻
 
 </code>
