@@ -34,6 +34,7 @@ Apart from programming, I am a reader of fantasy books and post-apocalyptic genr
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <br/>
 ![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
