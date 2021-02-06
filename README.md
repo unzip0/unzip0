@@ -5,7 +5,7 @@
 <pre>
 <code>
 
-- 🔭 I’m currently open to work
+- 🔭 I’m currently working as backend dev
 - 🌱 I’m currently learning all as i can
 - 👯 I’m looking to collaborate on any project that impresses me
 - 🤔 I’m looking for help with animal community
