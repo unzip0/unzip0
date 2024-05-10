@@ -52,3 +52,4 @@ Apart from programming, I am a reader of fantasy books and post-apocalyptic genr
 ![](https://img.shields.io/badge/Build-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Queue-RabbitMQ-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unzip0&theme=tokyonight)
