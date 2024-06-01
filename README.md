@@ -8,9 +8,8 @@
 <code>
 
 - 🔭 I’m currently working as backend dev
-- 🌱 I’m currently learning all as i can
-- 👯 I’m looking to collaborate on any project that impresses me
-- 🤔 I’m looking for help with animal community
+- 🌱 I’m currently learning VUE, NestJS, AWS and RabbitMQ
+- 👯 I’m developing my own project to contribute to animal community
 - 💬 Ask me about Web Development
 - ⚡ Fun fact: I love Cats 😻😻
 
