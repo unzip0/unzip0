@@ -48,6 +48,7 @@ Apart from programming, I am a reader of fantasy books and post-apocalyptic genr
 
 ## Technologies in progress 🧠
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Build-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Queue-RabbitMQ-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
